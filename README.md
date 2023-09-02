@@ -19,7 +19,7 @@ yarn install
 VITE_OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 ```
 
-6. Replace ** YOUR_OPENAI_API_KEY ** with your actual OpenAI API key.
+6. Replace **YOUR_OPENAI_API_KEY** with your actual OpenAI API key.
 7. Next, run the following command to start the application:
 
 ```bash
