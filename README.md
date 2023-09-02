@@ -28,11 +28,7 @@ yarn dev
 8. Open your web browser and visit the localhost that is provided to use the application.
 ## Usage
 
-El programa generará un archivo de salida que contiene información sobre los tokens encontrados en cada línea del archivo de entrada. Los resultados estarán en el formato:
-
-```bash
-Token: [TOKEN], Tipo: [TIPO]
-```
+Enter a prompt in the text box and click "Generate Image." The program will send your prompt to the OpenAI API and display the generated image in the interface when it's ready.
 ## Credits
 
 This project utilizes the OpenAI API for image generation.
